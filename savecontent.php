@@ -28,7 +28,6 @@
 	<meta charset="utf-8">
 	<title>ระบบเเจ้งอุปกรณ์ชำรุดภายในหอพัก</title>
 	<link href="style.css" rel="stylesheet">
-	
 </head>
 <body>
 <div class="col-sm-8">

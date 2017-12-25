@@ -4,13 +4,13 @@
 	<meta charset="utf-8">
 	<title>ระบบเเจ้งอุปกรณ์ชำรุดภายในหอพัก</title>
 	<link href="style.css" rel="stylesheet">
-	
+
+
 </head>
 <body>
 	
 	 <header>
         <h2>เเจ้งอุปกรณ์ชำรุดภายในหอพัก</h2>
-        
     </header>
   	<br><br>
   
@@ -30,6 +30,7 @@
 	  <br>
 	  <br>
 	  <a href="index.php">กลับหน้าหลัก</a>
+	  <a href="contect.php">ติดต่อเรา</a>
 	</div>
 </body>
 </html>
